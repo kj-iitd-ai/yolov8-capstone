@@ -1,1 +1,2 @@
-# yolov8-capstone
+# YOLOv8 Capstone
+Initial setup for my YOLOv8 capstone project.
