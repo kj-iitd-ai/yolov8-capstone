@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Auto-rickshaw"
+    },
+    {
+      "id": 1,
+      "name": "Bike"
+    },
+    {
+      "id": 2,
+      "name": "Bus"
+    },
+    {
+      "id": 3,
+      "name": "Car"
+    },
+    {
+      "id": 4,
+      "name": "Truck"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
